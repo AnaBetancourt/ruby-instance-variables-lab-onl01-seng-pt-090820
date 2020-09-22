@@ -1,4 +1,6 @@
 class Dog
-lassie = Dog.new
-lassie.name = "Lassie"
+  
+  lassie = Dog.new
+  lassie.name = "Lassie"
+
 end
